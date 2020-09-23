@@ -1,0 +1,16 @@
+F:\Facultad\algoritmos y programacion\2017\Sharp Develop Portable\Sharp Develop Portable\Data\SharpDevelop Projects\Integrador\Integrador\obj\Debug\Integrador.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo Martin\Desktop\Sharp Develop Portable\Sharp Develop Portable\Data\SharpDevelop Projects\Integrador\Integrador\obj\Debug\Integrador.csprojResolveAssemblyReference.cache
+C:\Users\Rodrigo Martin\Desktop\Sharp Develop Portable\Sharp Develop Portable\Data\SharpDevelop Projects\Integrador\Integrador\bin\Debug\Integrador.exe
+C:\Users\Rodrigo Martin\Desktop\Sharp Develop Portable\Sharp Develop Portable\Data\SharpDevelop Projects\Integrador\Integrador\bin\Debug\Integrador.pdb
+C:\Users\Rodrigo Martin\Desktop\Sharp Develop Portable\Sharp Develop Portable\Data\SharpDevelop Projects\Integrador\Integrador\obj\Debug\Integrador.exe
+C:\Users\Rodrigo Martin\Desktop\Sharp Develop Portable\Sharp Develop Portable\Data\SharpDevelop Projects\Integrador\Integrador\obj\Debug\Integrador.pdb
+G:\Facultad\algoritmos y programacion\2017\integrador\Integrador\Integrador\obj\Debug\Integrador.csprojResolveAssemblyReference.cache
+G:\Facultad\algoritmos y programacion\2017\integrador\Integrador\Integrador\obj\Debug\Integrador.exe
+G:\Facultad\algoritmos y programacion\2017\integrador\Integrador\Integrador\bin\Debug\Integrador.exe
+G:\Facultad\algoritmos y programacion\2017\integrador\Integrador\Integrador\bin\Debug\Integrador.pdb
+G:\Facultad\algoritmos y programacion\2017\integrador\Integrador\Integrador\obj\Debug\Integrador.pdb
+C:\Users\Alumnos-UNAJ\Desktop\integrador\Integrador\Integrador\bin\Debug\Integrador.exe
+C:\Users\Alumnos-UNAJ\Desktop\integrador\Integrador\Integrador\bin\Debug\Integrador.pdb
+C:\Users\Alumnos-UNAJ\Desktop\integrador\Integrador\Integrador\obj\Debug\Integrador.csprojResolveAssemblyReference.cache
+C:\Users\Alumnos-UNAJ\Desktop\integrador\Integrador\Integrador\obj\Debug\Integrador.exe
+C:\Users\Alumnos-UNAJ\Desktop\integrador\Integrador\Integrador\obj\Debug\Integrador.pdb
